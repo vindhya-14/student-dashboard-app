@@ -1,7 +1,3 @@
-Here’s a professional and concise `README.md` for your **Student Dashboard** project:
-
----
-
 # Student Dashboard
 
 A responsive React-based student dashboard for managing student records. The app integrates Firebase Authentication (Google Sign-In) to restrict student creation and uses mock data to simulate a backend.
